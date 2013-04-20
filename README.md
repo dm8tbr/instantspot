@@ -17,6 +17,9 @@ Completed 'stories':
 
 Story backlog:
  - send notification of upcomming pass for previously set coordinates
+ - return name of location if available (for 'now' queries)
+ - return magnitude of pass and other info
+ - find way to get altitude information for lat/lon tuple
  - set up demo
   - with plain XMPP (/should/ work with Gtalk ootb)
   - with icq
