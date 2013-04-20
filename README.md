@@ -11,6 +11,10 @@ Completed 'stories':
 Story backlog:
  - report the next passes when sent coordinates
  - send notification of upcomming pass for previously set coordinates
+ - accept other forms than coordinates
+  - city
+  - country
+  - any XEP that would allow to retrieve remote location?
  - set up demo
   - with plain XMPP (/should/ work with Gtalk ootb)
   - with icq
