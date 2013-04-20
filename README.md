@@ -15,6 +15,7 @@ Story backlog:
   - city
   - country
   - any XEP that would allow to retrieve remote location?
+  - use OSM and their APIs for this? (idea from other group at Demola)
  - set up demo
   - with plain XMPP (/should/ work with Gtalk ootb)
   - with icq
