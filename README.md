@@ -7,15 +7,16 @@ I've forked jcfigueiredo/XMPP-Bot
 It looks like a useful light weight bot that will suite my needs.
 Completed 'stories':
  - report the current ISS position when sent 'now'
-
-Story backlog:
- - report the next passes when sent coordinates
- - send notification of upcomming pass for previously set coordinates
+ - report the next passes when sent coordinates (dropped in favor of following)
  - accept other forms than coordinates
   - city
   - country
   - any XEP that would allow to retrieve remote location?
   - use OSM and their APIs for this? (idea from other group at Demola)
+   - bingo! http://wiki.openstreetmap.org/wiki/Nominatim#Search
+
+Story backlog:
+ - send notification of upcomming pass for previously set coordinates
  - set up demo
   - with plain XMPP (/should/ work with Gtalk ootb)
   - with icq
