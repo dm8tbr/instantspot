@@ -15,6 +15,12 @@ Completed 'stories':
    - bingo! http://wiki.openstreetmap.org/wiki/Nominatim#Search
  - return name of location if available (for 'now' queries)
 
+Activities:
+ - lots of discussion with local teams in the NewFactory venue
+ - discussions on freenode IRC on #spaceapps
+ - following and posting on twitter, collaborating with other teams
+ - hackpad reading and writing to it
+
 Story backlog:
  - send notification of upcomming pass for previously set coordinates
  - return magnitude of pass and other info
