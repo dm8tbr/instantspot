@@ -11,15 +11,15 @@ Completed 'stories':
  - accept other forms than coordinates
   - city
   - country
-  - any XEP that would allow to retrieve remote location?
   - use OSM and their APIs for this? (idea from other group at Demola)
    - bingo! http://wiki.openstreetmap.org/wiki/Nominatim#Search
+ - return name of location if available (for 'now' queries)
 
 Story backlog:
  - send notification of upcomming pass for previously set coordinates
- - return name of location if available (for 'now' queries)
  - return magnitude of pass and other info
  - find way to get altitude information for lat/lon tuple
+ - find way to calculate timezone/dst for lat/lon and return local time
  - set up demo
   - with plain XMPP (/should/ work with Gtalk ootb)
   - with icq
@@ -29,6 +29,8 @@ Story backlog:
   - with text message (sms)
   - with skype
   - with facebook(is there a working transport?)
+ - accept other forms of location
+  - any XEP that would allow to retrieve remote location?
  - move from remote json queries to locally stored and updated TLE
  - add support for arbitrary objects found in TLE file
  - add search in TLE objects
