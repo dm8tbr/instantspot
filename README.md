@@ -18,7 +18,7 @@ Completed 'stories':
   - xmpp:instantspot@jabber.bfst.de (also works for google talk)
   - msn:instantspot@ruecker.fi
   - yahoo:instantspotorbit@yahoo.com
-  - call +496104667071 from mobile phone - receive next pass over Tampere by text message!
+  - call +496104667017 from mobile phone - receive next pass over Tampere by text message!
 
 
 Activities:
