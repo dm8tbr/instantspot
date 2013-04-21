@@ -32,6 +32,7 @@ Story backlog:
  - accept other forms of location
   - identify country by phone prefix (SIP gateway)
   - any XEP that would allow to retrieve remote location?
+ - reply directly to phone call and use TTS (festival)
  - move from remote json queries to locally stored and updated TLE
  - add support for arbitrary objects found in TLE file
  - add search in TLE objects
