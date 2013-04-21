@@ -46,4 +46,5 @@ Story backlog:
  - reply directly to phone call and use TTS (festival)
  - move from remote json queries to locally stored and updated TLE
  - add support for arbitrary objects found in TLE file
+ - add support for objects outside of earth orbit
  - add search in TLE objects
