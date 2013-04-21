@@ -26,10 +26,11 @@ Story backlog:
   - with msn messenger
   - with yahoo messenger
   - with twitter (dm? or public?)
-  - with text message (sms)
+  - with text message (sms, through aspsms/swissjabber)
   - with skype
   - with facebook(is there a working transport?)
  - accept other forms of location
+  - identify country by phone prefix (SIP gateway)
   - any XEP that would allow to retrieve remote location?
  - move from remote json queries to locally stored and updated TLE
  - add support for arbitrary objects found in TLE file
