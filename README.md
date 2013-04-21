@@ -18,6 +18,8 @@ Completed 'stories':
   - xmpp:instantspot@jabber.bfst.de (also works for google talk)
   - msn:instantspot@ruecker.fi
   - yahoo:instantspotorbit@yahoo.com
+  - call +496104667071 from mobile phone - receive next pass over Tampere by text message!
+
 
 Activities:
  - lots of discussion with local teams in the NewFactory venue
@@ -26,16 +28,18 @@ Activities:
  - hackpad reading and writing to it
 
 Story backlog:
+ - set up demo
+  - with icq
+  - with twitter (dm? or public?)
+  - with text message (bi-directional, sms, through aspsms/swissjabber or voipdiscount)
+  - with skype
+  - with facebook(is there a working transport?)
+  - with phone call, reply with next pass over country where call originated from
+  - with phone call, reply with next pass over location registered for phone number
  - send notification of upcomming pass for previously set coordinates
  - return magnitude of pass and other info
  - find way to get altitude information for lat/lon tuple
  - find way to calculate timezone/dst for lat/lon and return local time
- - set up demo
-  - with icq
-  - with twitter (dm? or public?)
-  - with text message (sms, through aspsms/swissjabber)
-  - with skype
-  - with facebook(is there a working transport?)
  - accept other forms of location
   - identify country by phone prefix (SIP gateway)
   - any XEP that would allow to retrieve remote location?
