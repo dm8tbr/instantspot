@@ -48,3 +48,10 @@ Story backlog:
  - add support for arbitrary objects found in TLE file
  - add support for objects outside of earth orbit
  - add search in TLE objects
+
+
+Picture references:
+ - NASA
+ - http://astrobob.areavoices.com/astrobob/images/ISS_sun_June_28_Lyle_A.jpg Photo credit: Lyle Anderson
+ - http://s1.www.astronomycameras.com/data/blog/20100322/assets/iss100317b.jpg Ernie Mastroianni, an American amateur from Whitefish Bay, USA.
+ - 
