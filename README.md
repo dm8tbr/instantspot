@@ -14,6 +14,10 @@ Completed 'stories':
   - use OSM and their APIs for this? (idea from other group at Demola)
    - bingo! http://wiki.openstreetmap.org/wiki/Nominatim#Search
  - return name of location if available (for 'now' queries)
+ - set up demo
+  - xmpp:instantspot@jabber.bfst.de (also works for google talk)
+  - msn:instantspot@ruecker.fi
+  - yahoo:instantspotorbit@yahoo.com
 
 Activities:
  - lots of discussion with local teams in the NewFactory venue
