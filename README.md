@@ -6,19 +6,19 @@ Spaceapps 2013 participation entry sources and documentation.
 I've forked jcfigueiredo/XMPP-Bot
 It looks like a useful light weight bot that will suite my needs.
 Completed 'stories':
- - report the current ISS position when sent 'now'
+ - report the current ISS position when sent 'where'
  - report the next passes when sent coordinates (dropped in favor of following)
  - accept other forms than coordinates
   - city
   - country
   - use OSM and their APIs for this? (idea from other group at Demola)
    - bingo! http://wiki.openstreetmap.org/wiki/Nominatim#Search
- - return name of location if available (for 'now' queries)
+ - return name of location if available (for 'where' queries)
  - set up demo
   - xmpp:instantspot@jabber.bfst.de (also works for google talk)
   - msn:instantspot@ruecker.fi
   - yahoo:instantspotorbit@yahoo.com
-  - call +496104667017 from mobile phone - receive next pass over Tampere by text message!
+  - call [no longer active] from mobile phone - receive next pass over Tampere by text message!
 
 
 Activities:
